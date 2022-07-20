@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="15.429" viewBox="0 0 17 15.429">
+  <g id="filter" transform="translate(0.5)">
+    <g id="Group_2" data-name="Group 2">
+      <path id="Path_2" data-name="Path 2" d="M1,0V15.429" transform="translate(2)" fill="none" stroke="#196737" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Oval_4" data-name="Oval 4" cx="2.571" cy="2.571" r="2.571" transform="translate(0 3.429)" fill="#196737" stroke="#196737" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <g id="Group_2-2" data-name="Group 2" transform="translate(16 15.429) rotate(180)">
+      <path id="Path_2-2" data-name="Path 2" d="M0,0V15.429" transform="translate(3)" fill="none" stroke="#196737" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Oval_4-2" data-name="Oval 4" cx="2.571" cy="2.571" r="2.571" transform="translate(0 3.429)" fill="#196737" stroke="#196737" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

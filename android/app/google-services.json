@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048914964698",
+    "project_id": "drugdelivery-65f09",
+    "storage_bucket": "drugdelivery-65f09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048914964698:android:cbb58fd4e6b8e6435ab5e3",
+        "android_client_info": {
+          "package_name": "com.example.drugdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048914964698-8fdn5lear4chgu0bi84qsa54jn7e1l0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoY7BNJ4FKvWJAtGPwLd5TO_cC9OcIFLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048914964698-8fdn5lear4chgu0bi84qsa54jn7e1l0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
